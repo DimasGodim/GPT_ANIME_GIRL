@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+tortoise-orm
+tortoise-orm[asyncmy]
+aerich
+SpeechRecognition
+pydantic==1.10.7
+googletrans==3.1.0a0
+python-multipart
+openai
